@@ -1,1 +1,5 @@
-Hi 👋 My name is Ravi Gehlot. I am a Software Engineer.
+Adaptable and goal-oriented professional with a wealth of experience in web development, now transitioning seamlessly into the role of Senior Systems Administrator. Proficient in implementing cutting-edge strategies tailored specifically to the dynamic needs of higher education, I bring a proven track record of thriving independently and within collaborative cross-functional teams. I consistently deliver innovative solutions that enhance the digital infrastructure.
+
+In my capacity as Senior Systems Administrator, I actively contribute to the creation, enhancement, and maintenance of robust systems, ensuring adherence to best practices while introducing novel functionalities. From conceptualization to seamless implementation, my role spans the entire spectrum of the development process. Through timely and precise delivery, I contribute to sustaining the competitive edge of institutions.
+
+As a vital team member, I provide strategic guidance, foster creativity, and offer unwavering support. Through collaborative initiatives and transparent communication, I am committed to making a significant impact on the digital landscape of higher education institutions in my role as a Senior Systems Administrator.
